@@ -1,0 +1,26 @@
+{
+  "name": "semi",
+  "version": "1.0.0",
+  "description": "web ui ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkxiansheng/semi.git"
+  },
+  "keywords": [
+    "semi",
+    "web",
+    "ui",
+    "css",
+    "html"
+  ],
+  "author": "mk先生",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkxiansheng/semi/issues"
+  },
+  "homepage": "https://github.com/mkxiansheng/semi#readme"
+}
